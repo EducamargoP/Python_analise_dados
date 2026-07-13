@@ -30,8 +30,4 @@ Explorar o poder do Python para transformar dados brutos em insights úteis, apl
 
 ---
 
-## ⚙️ Instalação e Configuração
-1. Crie o ambiente virtual:
-   ```bash
-   conda create -n dados python=3.12 numpy pandas matplotlib seaborn jupyter
-   conda activate dados
+
